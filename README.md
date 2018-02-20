@@ -1,7 +1,7 @@
 # Mozaïk iframe widgets
 
 [![Travis CI](https://img.shields.io/travis/tomav/mozaik-ext-iframe.svg?style=flat-square)](https://travis-ci.org/tomav/mozaik-ext-iframe)
-[![NPM version](https://img.shields.io/npm/v/mozaik-ext-iframe.svg?style=flat-square)](https://www.npmjs.com/package/mozaik-ext-iframe)
+[![NPM version](https://img.shields.io/npm/v/@tlake/mozaik-ext-iframe.svg?style=flat-square)](https://www.npmjs.com/package/@tlake/mozaik-ext-iframe)
 
 ## Iframe
 
